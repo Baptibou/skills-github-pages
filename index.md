@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Alisair is BOSS
+Life is great
 ---
 
